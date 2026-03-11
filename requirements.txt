@@ -1,0 +1,8 @@
+streamlit==1.55.0
+pandas==2.3.3
+numpy==2.4.3
+altair==6.0.0
+soccerdata==1.8.8
+moviepy==2.2.1
+seleniumbase==4.38.3
+selenium==4.32.0

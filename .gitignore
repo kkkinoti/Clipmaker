@@ -1,0 +1,26 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Exported videos and downloaded files
+exports/
+downloaded_files/
+
+# Scraped CSVs (player data — generated at runtime)
+*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Streamlit credentials
+.streamlit/credentials.toml
