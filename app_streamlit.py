@@ -11,7 +11,7 @@ import streamlit as st
 # =============================================================================
 # PAGE CONFIG
 # =============================================================================
-st.set_page_config(page_title="ClipMaker 1.1 by B4L1", page_icon="⚽", layout="wide")
+st.set_page_config(page_title="ClipMaker 1.1 by B4L1 Kinoti Version", page_icon="⚽", layout="wide")
 
 st.markdown("""
 <style>
