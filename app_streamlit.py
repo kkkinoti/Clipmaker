@@ -11,7 +11,7 @@ import streamlit as st
 # =============================================================================
 # PAGE CONFIG
 # =============================================================================
-st.set_page_config(page_title="ClipMaker 1.1 by B4L1 Kinoti Version", page_icon="⚽", layout="wide")
+st.set_page_config(page_title="ClipMaker 1.1 by HIGHASFVCKKK", page_icon="⚽", layout="wide")
 
 st.markdown("""
 <style>
@@ -663,7 +663,7 @@ for key, default in _state_defaults.items():
 # =============================================================================
 # TITLE & TABS
 # =============================================================================
-st.title("⚽ ClipMaker 1.1 by B4L1")
+st.title("⚽ ClipMaker 1.1 by HIGHASFVCKKK")
 st.caption("Multi-Player Batch Highlight Processor · Powered by WhoScored & FFmpeg")
 
 tab_scrape, tab_render = st.tabs(["🔍 Scrape Data", "🎬 Render Video"])
@@ -1301,4 +1301,4 @@ with tab_render:
 # =============================================================================
 # FOOTER
 # =============================================================================
-st.markdown('<div class="footer">@B03GHB4L1</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">@B03GHHIGHASFVCKKK</div>', unsafe_allow_html=True)
